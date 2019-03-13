@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8ae401f47ccd4725102d0cb9816d5ae1",
+    "content-hash": "f230912b122f26d867271c9565670fda",
     "packages": [
         {
             "name": "doctrine/instantiator",
